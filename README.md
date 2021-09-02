@@ -3,7 +3,6 @@
 JavaScript is a popular programming language that has a wide range of applications.
 
 JavaScript was previously used mainly for making webpages interactive such as form validation, animation, etc. Nowadays, JavaScript is also used in many other areas such as server-side development, mobile app development and so on.
-In this Challenge using Console Tab of Web Browsers
 
 ### In this Challenge using Console Tab of Web Browsers
 All the popular web browsers have built-in JavaScript engines. Hence, you can run JavaScript on a browser. To run JavaScript on a browser,
